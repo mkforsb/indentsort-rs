@@ -1,0 +1,11 @@
+desserts:
+    chocolates:
+        milk-chocolate
+        dark-chocolate
+        white-chocolate
+    berries:
+        strawberry
+        raspberry
+        blueberry
+appetizers:
+    water

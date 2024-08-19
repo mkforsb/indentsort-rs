@@ -1,0 +1,14 @@
+foo {
+    symbols {
+        start,
+        end,
+    },
+    lines {
+        active (
+            None
+        ),
+        48,
+        11,
+        23,
+    }
+}

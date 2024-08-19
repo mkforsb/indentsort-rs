@@ -1,0 +1,8 @@
+[package]
+name = "indentsort"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Structure-preserving sorting of arbitrary indented text"
+repository = "https://www.github.com/mkforsb/indentsort-rs"
+readme = "README.md"
